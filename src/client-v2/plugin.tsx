@@ -6,7 +6,7 @@ export class PluginCustomBrandClientV2 extends Plugin {
   async load() {
     this.app.pluginSettingsManager.addMenuItem({
       key: 'custom-brand',
-      title: '{{t("自定义品牌", {"ns": "@nocobase/plugin-custom-brand"})}}' as unknown as string,
+      title: this.t('自定义品牌') as unknown as string,
       icon: 'TagOutlined',
       aclSnippet: 'pm.custom-brand.configuration',
     });
@@ -14,7 +14,7 @@ export class PluginCustomBrandClientV2 extends Plugin {
     this.app.pluginSettingsManager.addPageTabItem({
       menuKey: 'custom-brand',
       key: 'index',
-      title: '{{t("自定义品牌", {"ns": "@nocobase/plugin-custom-brand"})}}' as unknown as string,
+      title: this.t('自定义品牌') as unknown as string,
       componentLoader: () => import('./CustomBrandSettingsV2'),
     });
 
