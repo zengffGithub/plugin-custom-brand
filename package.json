@@ -1,0 +1,17 @@
+{
+  "name": "@nocobase/plugin-custom-brand",
+  "displayName": "自定义品牌",
+  "displayName.zh-CN": "自定义品牌",
+  "description": "自定义品牌：配置登录页底部品牌文字、右上角「关于」菜单，支持 HTML 格式",
+  "description.zh-CN": "自定义品牌：配置登录页底部品牌文字、右上角「关于」菜单，支持 HTML 格式",
+  "version": "2.2.7",
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "2.x",
+    "@nocobase/client-v2": "2.x",
+    "@nocobase/flow-engine": "2.x",
+    "@nocobase/server": "2.x",
+    "@nocobase/utils": "2.x"
+  }
+}

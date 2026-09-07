@@ -1,0 +1,13 @@
+{
+  "Custom brand": "Custom brand",
+  "Custom brand settings": "Custom brand settings",
+  "Brand name": "Brand name",
+  "Brand name help": "Replaces 'NocoBase' text in the top-right header and login page. Defaults to Digit.",
+  "About content (HTML)": "About content (HTML)",
+  "About content help": "Content shown in the top-right corner pop-up. Leave empty to hide completely. Supports HTML. System version is displayed automatically.",
+  "Brand (HTML)": "Login page brand (HTML)",
+  "Brand help": "Shown at the bottom of the login page. Defaults to 'Powered by Digit' when empty. Supports HTML.",
+  "Dropdown links": "Dropdown menu links",
+  "Dropdown links help": "Replaces default links (Home, User Manual, etc.) in the top-right dropdown. New links appear in the dropdown; leave URL empty to disable navigation.",
+  "Saved successfully, page will reload": "Saved successfully, page will reload"
+}

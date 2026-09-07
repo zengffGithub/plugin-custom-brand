@@ -1,0 +1,7 @@
+{
+  "Custom brand": "自定义品牌",
+  "Custom brand settings": "自定义品牌设置",
+  "About content (HTML)": "右上角「关于」内容（HTML）",
+  "About content help": "显示在页面右上角问号按钮位置的弹窗内容。留空则完全隐藏右上角品牌标识。支持 HTML。",
+  "Saved successfully, page will reload": "保存成功，刷新页面后生效"
+}

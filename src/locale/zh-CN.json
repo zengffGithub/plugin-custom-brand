@@ -1,0 +1,13 @@
+{
+  "Custom brand": "自定义品牌",
+  "Custom brand settings": "自定义品牌设置",
+  "Brand name": "品牌名称",
+  "Brand name help": "替换页面右上角和登录页中的「NocoBase」文案。默认为 Digit。",
+  "About content (HTML)": "右上角「关于」弹窗内容（HTML）",
+  "About content help": "显示在页面右上角问号按钮的弹窗中。留空则隐藏品牌标识。支持 HTML，系统版本号会自动显示。",
+  "Brand (HTML)": "登录页底部品牌（HTML）",
+  "Brand help": "显示在登录页底部。留空时使用默认文案「Powered by Digit」。支持 HTML。",
+  "Dropdown links": "下拉菜单链接",
+  "Dropdown links help": "替换右上角下拉菜单中的默认链接（主页、用户手册等）。新增的链接会显示在下拉菜单中；留空 url 则该项不跳转。",
+  "Saved successfully, page will reload": "保存成功，刷新页面后生效"
+}
